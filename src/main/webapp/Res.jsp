@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Greetings</title>
+</head>
+<body>
+<h1> Result Page</h1>
+Calculation : ${nr1}  ${op}  ${nr2}<br>
+Result : ${result}
+</body>
+</html>
